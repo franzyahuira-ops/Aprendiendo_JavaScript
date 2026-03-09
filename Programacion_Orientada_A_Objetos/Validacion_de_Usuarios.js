@@ -3,7 +3,7 @@ const usersDatabase = [
       username: "andres",
       password: "123",
     },
-    {
+    { 
       username: "caro",
       password: "456",
     },
